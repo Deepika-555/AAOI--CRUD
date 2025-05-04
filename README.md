@@ -22,6 +22,14 @@ View all survey code entries in a tabular format.
 | Database   | PostgreSQL             |
 | Versioning | Git, GitHub            |
 
+📸 Screenshot
+
+![Manage Survey Code Object UI](./img1.png)
+
+![Manage Survey Code Object UI](./img2.png)
+
+![Manage Survey Code Object UI](./img3.png)
+
 
 🧩 Database Schema Overview
 manage_survey_code – Main table storing survey codes.
@@ -29,3 +37,7 @@ manage_survey_code – Main table storing survey codes.
 select_category – Reference table used in dropdowns.
 
 uid_code –Reference table in dropdowns.
+
+🙋‍♀️ Author
+👩‍💻 Deepika Jaiswal
+📧 Email: [deepikajaiswal305@gmail.com]
