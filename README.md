@@ -1,7 +1,7 @@
-# ✈️ Airport Authority of India – Manage Survey Code Object
+# ✈ Airport Authority of India – Manage Survey Code Object
 This project is a part of the Airport Authority of India system to manage survey code entries. It includes a SvelteKit frontend, a Node.js + Express backend, and PostgreSQL as the database.
 
-# 📌 Features
+#  Features
 View all survey code entries in a tabular format.
 
 1.Add new survey code objects.
@@ -14,7 +14,7 @@ View all survey code entries in a tabular format.
 
 5.Complete CRUD operations from frontend to backend.
 
-# 🛠 Tech Stack
+#  Tech Stack
 | Layer      | Technology             |
 | ---------- | ---------------------- |
 | Frontend   | SvelteKit (JavaScript) |
@@ -22,7 +22,7 @@ View all survey code entries in a tabular format.
 | Database   | PostgreSQL             |
 | Versioning | Git, GitHub            |
 
-#📸 Screenshot
+# Screenshot
 
 ![Manage Survey Code Object UI](./img1.png)
 
@@ -31,7 +31,7 @@ View all survey code entries in a tabular format.
 ![Manage Survey Code Object UI](./img3.png)
 
 
-🧩 Database Schema Overview
+# Database Schema Overview
 manage_survey_code – Main table storing survey codes.
 
 select_category – Reference table used in dropdowns.
